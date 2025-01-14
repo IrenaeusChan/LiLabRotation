@@ -78,4 +78,4 @@ In an interactive session activate the conda environment dnabert-2. You will pro
 ```
 python3 scripts/summarise_results.py /path/to/output/directories/ finetune
 ```
-[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/pdf/models_matthews_correlation_plot.pdf)
+[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/blob/ee95ef96ef3dfa47c0ab62fd46f243061482b6ef/pdf/models_matthews_correlation_plot.pdf)
