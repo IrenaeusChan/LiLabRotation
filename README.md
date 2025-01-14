@@ -2,14 +2,14 @@
 Tutorial to reproduce work done during Li Lab rotation
 
 ## Contents
-1. [Model Comparisons: DNABERT (6mer, 3mer), DNABERT2, Nucleotide-Transformer (Multi-Species, 1000g)](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#1-model-comparisons)
+1. [Model Comparisons](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#1-model-comparisons)
 2. [Prepare Data for Pre-Training](https://github.com/IrenaeusChan/LiLabRotation)
 3. [Pre-Train DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation)
 4. [Fine-Tune DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation)
 5. [Compare](https://github.com/IrenaeusChan/LiLabRotation)
 
 ## 1. Model Comparisons
-For each of the foundation models used in this overview, please refer to their individual Github repositories for installation and usage:
+For each of the foundation models used in this overview, please refer to their individual Github repositories for installation and usage:  
 [DNABERT](https://github.com/jerryji1993/DNABERT)  
 [DNABERT-2](https://github.com/MAGICS-LAB/DNABERT_2)  
 [Nucleotide-Transformer](https://github.com/instadeepai/nucleotide-transformer)
