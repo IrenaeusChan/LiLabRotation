@@ -2,7 +2,7 @@
 Tutorial to reproduce work done during Li Lab rotation
 
 ## Contents
-1. [Model Comparisons: DNABERT (6mer, 3mer), DNABERT2, Nucleotide-Transformer (Multi-Species, 1000g)](https://github.com/IrenaeusChan/LiLabRotation)
+1. [Model Comparisons: DNABERT (6mer, 3mer), DNABERT2, Nucleotide-Transformer (Multi-Species, 1000g)](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#1-model-comparisons)
 2. [Prepare Data for Pre-Training](https://github.com/IrenaeusChan/LiLabRotation)
 3. [Pre-Train DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation)
 4. [Fine-Tune DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation)
@@ -78,5 +78,4 @@ In an interactive session activate the conda environment dnabert-2. You will pro
 ```
 python3 scripts/summarise_results.py /path/to/output/directories/ finetune
 ```
-The result will look like:
-![all model comparison for matthews correlation plot](/pdf/models_matthews_correlation_plot.pdf)
+[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/pdf/models_matthews_correlation_plot.pdf)
