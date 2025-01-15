@@ -644,4 +644,4 @@ Once these have finished running you will want to visualize the data
 python3 scripts/summarise_results.py /path/to/output/directories/ pretrain
 ```
 
-[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/blob/ee95ef96ef3dfa47c0ab62fd46f243061482b6ef/pdf/matthews_correlation_plot.pdf)
+[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/blob/main/pdf/pretrain_matthews_correlation_plot.pdf)
