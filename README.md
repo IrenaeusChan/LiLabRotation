@@ -108,7 +108,7 @@ In an interactive session activate the conda environment dnabert-2. You will pro
 ```
 python3 scripts/summarise_results.py /path/to/output/directories/ finetune
 ```
-[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/blob/ee95ef96ef3dfa47c0ab62fd46f243061482b6ef/pdf/models_matthews_correlation_plot.pdf)
+[The result will look like this](https://github.com/IrenaeusChan/LiLabRotation/blob/main/pdf/models_matthews_correlation_plot.pdf)
 
 ## 2. Prepare Pre-Training Data
 There was two training datasets available for me to prepare the pre-training data.  
@@ -210,7 +210,7 @@ bsub \
 
 Do the same for the 46 WGS GBM Files
 
-The results for this can be found [here](https://github.com/IrenaeusChan/LiLabRotation/blob/ee95ef96ef3dfa47c0ab62fd46f243061482b6ef/pdf/ManhattanPlotsWES.pdf)
+The results for this can be found [here](https://github.com/IrenaeusChan/LiLabRotation/blob/main/pdf/ManhattanPlotsWES.pdf)
 
 This plot was generated using the scripts/create_manhattan_plots.R
 
