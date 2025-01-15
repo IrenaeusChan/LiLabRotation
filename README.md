@@ -3,10 +3,10 @@ Tutorial to reproduce work done during Li Lab rotation
 
 ## Contents
 1. [Model Comparisons](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#1-model-comparisons)
-2. [Prepare Data for Pre-Training](https://github.com/IrenaeusChan/LiLabRotation/edit/main/README.md#2-prepare-pre-training-data)
-3. [Pre-Train DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation/edit/main/README.md#3-pre-train-dnabert2)
-4. [Fine-Tune DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation/edit/main/README.md#4-finetune-dnabert2)
-5. [Compare](https://github.com/IrenaeusChan/LiLabRotation/edit/main/README.md#5-compare)
+2. [Prepare Data for Pre-Training](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#2-prepare-pre-training-data)
+3. [Pre-Train DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#3-pre-train-dnabert2)
+4. [Fine-Tune DNABERT-2](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#4-finetune-dnabert2)
+5. [Compare](https://github.com/IrenaeusChan/LiLabRotation?tab=readme-ov-file#5-compare)
 
 ## 1. Model Comparisons
 For each of the foundation models used in this overview, please refer to their individual Github repositories for installation and usage:  
