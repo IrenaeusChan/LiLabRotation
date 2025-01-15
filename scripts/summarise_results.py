@@ -60,14 +60,16 @@ else:
         'dnabert2',
         'dnabert2_OG',
         'dnabert9_1',
-        'dnabert40_1'
+        'dnabert40_1',
+        'dnabert100_20'
     ]
-    model_order = ['dnabert2_OG', 'dnabert2', 'dnabert9_1', 'dnabert40_10']
+    model_order = ['dnabert2_OG', 'dnabert2', 'dnabert9_1', 'dnabert40_10', 'dnabert100_20']
     color_mapping = {
         'dnabert2_OG': 'red',
         'dnabert2': 'green',
         'dnabert9_1': 'blue',
-        'dnabert40_10': 'orange'
+        'dnabert40_10': 'orange',
+        'dnabert100_20': 'purple'
     }
     tests.extend(['Cancer','Cancer2'])
 
